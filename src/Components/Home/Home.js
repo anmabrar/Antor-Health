@@ -1,7 +1,7 @@
 import { Carousel } from 'react-bootstrap';
 import React from 'react';
 import antor from '../../images/Antor.jpg'
-
+import Services from '../Services/Services';
 
 const Home = () => {
     return (
@@ -41,7 +41,7 @@ const Home = () => {
     </Carousel.Caption>
   </Carousel.Item>
 </Carousel>
-            
+         <Services></Services>   
         </div>
     );
 };

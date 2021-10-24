@@ -1,0 +1,50 @@
+[
+    {
+        "id":1,
+        "serviceName": "Child Counseling",
+        "description" :"Child counseling is a type of therapy that focuses on young children, teens, and adolescents with one or more mental illnesses. It also provides aid to youths, who have experienced trauma, and/or who are experiencing a dysfunctional or stressful home environment.",
+        "serviceFee": 1000,
+        "img":"https://5.imimg.com/data5/OQ/XY/GLADMIN-61385332/m-sc-counseling-psychology-course-500x500.png"
+    
+    },
+    {
+        "id":2,
+        "serviceName": "Psychological Counselling",
+        "description" :"The treatment of mental and emotional disorders through the use of psychological techniques designed to encourage communication of conflicts and insight into problems, with the goal being relief of symptoms, changes in behavior leading to improved social and vocational functioning, and personality growth.",
+        "serviceFee": 1500,
+        "img":"https://5.imimg.com/data5/OQ/XY/GLADMIN-61385332/m-sc-counseling-psychology-course-500x500.png"
+    
+    },
+    {
+        "id":3,
+        "serviceName": "Child Counseling",
+        "description" :"Child counseling is a type of therapy that focuses on young children, teens, and adolescents with one or more mental illnesses. It also provides aid to youths, who have experienced trauma, and/or who are experiencing a dysfunctional or stressful home environment.",
+        "serviceFee": 1000,
+        "img":"https://5.imimg.com/data5/OQ/XY/GLADMIN-61385332/m-sc-counseling-psychology-course-500x500.png"
+    
+    },
+    {
+        "id":4,
+        "serviceName": "Child Counseling",
+        "description" :"Child counseling is a type of therapy that focuses on young children, teens, and adolescents with one or more mental illnesses. It also provides aid to youths, who have experienced trauma, and/or who are experiencing a dysfunctional or stressful home environment.",
+        "serviceFee": 1000,
+        "img":"https://5.imimg.com/data5/OQ/XY/GLADMIN-61385332/m-sc-counseling-psychology-course-500x500.png"
+    
+    },
+    {
+        "id":5,
+        "serviceName": "Child Counseling",
+        "description" :"Child counseling is a type of therapy that focuses on young children, teens, and adolescents with one or more mental illnesses. It also provides aid to youths, who have experienced trauma, and/or who are experiencing a dysfunctional or stressful home environment.",
+        "serviceFee": 1000,
+        "img":"https://5.imimg.com/data5/OQ/XY/GLADMIN-61385332/m-sc-counseling-psychology-course-500x500.png"
+    
+    },
+    {
+        "id":6,
+        "serviceName": "Child Counseling",
+        "description" :"Child counseling is a type of therapy that focuses on young children, teens, and adolescents with one or more mental illnesses. It also provides aid to youths, who have experienced trauma, and/or who are experiencing a dysfunctional or stressful home environment.",
+        "serviceFee": 1000,
+        "img":"https://5.imimg.com/data5/OQ/XY/GLADMIN-61385332/m-sc-counseling-psychology-course-500x500.png"
+    
+    }
+]

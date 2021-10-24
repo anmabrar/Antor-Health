@@ -1,9 +1,22 @@
 import React from 'react';
+import { Card } from 'react-bootstrap';
 
-const Psychiatrist = () => {
+const Psychiatrist = (props) => {
+    const{name,designation,photo}= props.psychiatrist
     return (
         <div>
-            <h1>Psychiatrist</h1>
+            <Card>
+    <Card.Img className="flued" variant="top" src={photo} />
+    <Card.Body>
+      <Card.Title className="fs-4 text">{name}</Card.Title>
+      <Card.Text>
+          <p> {designation}</p>
+      </Card.Text>
+    </Card.Body>
+    <Card.Footer className="bg-primary text-center">
+      <h3 className="text-light ">Enroll Now</h3>
+    </Card.Footer>
+  </Card>
         </div>
     );
 };

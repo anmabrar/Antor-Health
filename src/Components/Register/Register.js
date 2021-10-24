@@ -15,7 +15,7 @@ const Register = () => {
                    <br/>
                    <input type="submit" value="Submit" />
                 </form>
-                <p>new user <Link to="/register"></Link>Create New Account</p>
+                <p>Already have a account ? <Link to="/login">Login</Link></p>
                 <div>
                     ---------------or-------------
                 </div>
