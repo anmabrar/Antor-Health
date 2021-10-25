@@ -1,6 +1,6 @@
 # Antor Mental Health Care
 
--Antor Mental Health Care has been founded with the vision to be the nation’s leading community-based mental health institute dedicated to promoting mental health as a pivotal of overall wellness.
+- Antor Mental Health Care has been founded with the vision to be the nation’s leading community-based mental health institute dedicated to promoting mental health as a pivotal of overall wellness.
 
 Through advocacy, education, research, and assistance services we dream of a change as a beacon of hope for society.
 
