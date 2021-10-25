@@ -3,7 +3,7 @@ import React from 'react';
 const About = () => {
     return (
         <div>
-            <div className="card mb-3">
+            <div className=" container">
   <img  src="https://batonrougebehavioral.com/wp-content/uploads/2020/11/shutterstock_1735801265.jpg.webp" className="card-img-top" alt="..."/>
   <div className="card-body">
     <div className="container">

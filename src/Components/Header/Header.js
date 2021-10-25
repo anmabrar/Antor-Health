@@ -20,7 +20,7 @@ const Header = () => {
       <Nav.Link as={NavLink} to="/psychiatrists">Psychiatrists</Nav.Link>
     </Nav>
     <Nav className="d-flex align-items-center">
-      <span className="text-light">{user.displayName} </span>
+      <span className="text-light px-3">{user.displayName} </span>
     { 
       user.email ?
         <button className="btn btn-primary my-1" onClick={logOut} >Logout</button>
