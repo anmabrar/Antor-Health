@@ -6,6 +6,7 @@ import antor03 from '../../images/Antor-03.jpg'
 import Services from '../Services/Services';
 
 const Home = () => {
+  console.log("home")
     return (
         <div>
             <Carousel>
@@ -31,7 +32,8 @@ const Home = () => {
     />
   </Carousel.Item>
 </Carousel>
-         <Services></Services>   
+         <Services></Services> 
+           
         </div>
     );
 };

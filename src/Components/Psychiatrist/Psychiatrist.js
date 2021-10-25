@@ -14,7 +14,6 @@ const Psychiatrist = (props) => {
       </Card.Text>
     </Card.Body>
     <Card.Footer className="bg-primary text-center">
-      <h3 className="text-light ">Enroll Now</h3>
     </Card.Footer>
   </Card>
         </div>
