@@ -11,7 +11,7 @@ import About from './Components/About/About'
 import Psychiatrists from './Components/Psychiatrists/Psychiatrists';
 import NotFound from './Components/NotFound/NotFound';
 import AuthProvider from './context/AuthProvider';
-import Card from './Components/Card/Card';
+import Booking from './Components/Booking/Booking';
 
 
 function App() {
@@ -39,8 +39,8 @@ function App() {
           <Route path="/services">
             <Services></Services>
           </Route>
-          <Route path="/services/:id">
-            <Card></Card>
+          <Route path="/booking/:id">
+            <Booking></Booking>
           </Route>
           <Route path="/psychiatrists">
             <Psychiatrists></Psychiatrists>

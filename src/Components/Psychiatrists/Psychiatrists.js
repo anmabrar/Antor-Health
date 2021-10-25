@@ -15,7 +15,7 @@ const Psychiatrists = () => {
 
     return (
         <div>
-            <h1>Psychiatrists</h1>
+            <h1 className="d-flex justify-content-center text-primary p-3">Psychiatrists</h1>
             <Container>
             <Row xs={1} md={2} lg={3} className="g-4">
             {

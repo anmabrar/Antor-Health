@@ -1,6 +1,8 @@
 import { Carousel } from 'react-bootstrap';
 import React from 'react';
 import antor from '../../images/Antor.jpg'
+import antor02 from '../../images/Antor-02.png'
+import antor03 from '../../images/Antor-03.jpg'
 import Services from '../Services/Services';
 
 const Home = () => {
@@ -21,7 +23,7 @@ const Home = () => {
   <Carousel.Item interval={500}>
     <img
       className="d-block w-100"
-      src={antor}
+      src={antor02}
       alt="Second slide"
     />
     <Carousel.Caption>
@@ -32,7 +34,7 @@ const Home = () => {
   <Carousel.Item>
     <img
       className="d-block w-100"
-      src={antor}
+      src={antor03}
       alt="Third slide"
     />
     <Carousel.Caption>

@@ -13,7 +13,7 @@ const Services = () => {
 
     return (
         <div>
-            <h1>Services...</h1>
+            <h1 className="d-flex justify-content-center text-primary p-3">Our Services</h1>
             <Container>
             <Row xs={1} md={2} lg={3} className="g-4">
             {
