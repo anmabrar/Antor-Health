@@ -6,7 +6,8 @@ initializeAuthentication();
 
 const useFirebase =()=>{
     const [user,setUser] = useState({});
-    const [loading, setLoading] = useState(true)
+    //const [error, setError] = useState('');
+    const [loading, setLoading] = useState(true);
     const auth = getAuth();
     const googleProvider = new GoogleAuthProvider();
 
@@ -39,6 +40,7 @@ useEffect(() => {
 }, [])
     return{
         user,
+        loading,
         signInUsingGoogle,
         logOut,
     }

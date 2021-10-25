@@ -12,6 +12,7 @@ import Psychiatrists from './Components/Psychiatrists/Psychiatrists';
 import NotFound from './Components/NotFound/NotFound';
 import AuthProvider from './context/AuthProvider';
 import Booking from './Components/Booking/Booking';
+import PrivateRoute from './Components/PrivateRoute/PrivateRoute';
 
 
 function App() {
@@ -36,9 +37,9 @@ function App() {
           <Route path="/register">
             <Register></Register>
           </Route>
-          <Route path="/services">
+          <PrivateRoute path="/services">
             <Services></Services>
-          </Route>
+          </PrivateRoute>
           <Route path="/booking/:id">
             <Booking></Booking>
           </Route>
